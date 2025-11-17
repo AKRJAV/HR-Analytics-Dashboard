@@ -1,2 +1,2 @@
 # HR-Analytics-Dashboard
-![Uploading image.png…]()
+![Uploading image.png]()
